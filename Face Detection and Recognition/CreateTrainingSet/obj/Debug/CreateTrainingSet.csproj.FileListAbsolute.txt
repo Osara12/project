@@ -1,0 +1,8 @@
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\Debug\CreateTrainingSet.exe
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\Debug\CreateTrainingSet.pdb
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.csprojResolveAssemblyReference.cache
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.Form1.resources
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.Properties.Resources.resources
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.csproj.GenerateResource.Cache
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.exe
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\Debug\CreateTrainingSet.pdb

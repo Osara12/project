@@ -1,0 +1,106 @@
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.pdb
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Form1.resources
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Properties.Resources.resources
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csproj.GenerateResource.Cache
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.exe
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.pdb
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csprojResolveAssemblyReference.cache
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\cvextern.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\OpenCL.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_calib3d2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_contrib2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_core2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_features2d2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_flann2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_gpu2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_highgui2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_imgproc2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_legacy2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_ml2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_nonfree2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_objdetect2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_photo2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_stitching2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_superres2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_video2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_videostab2410.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe.config
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.CV.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.Util.dll
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.CV.xml
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.Util.xml
+C:\Users\bkk\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\haarcascade_frontalface_default.xml
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\cvextern.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\haarcascade_frontalface_default.xml
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\OpenCL.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_calib3d2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_contrib2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_core2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_features2d2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_flann2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_gpu2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_highgui2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_imgproc2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_legacy2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_ml2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_nonfree2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_objdetect2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_photo2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_stitching2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_superres2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_video2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_videostab2410.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe.config
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.pdb
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csprojResolveAssemblyReference.cache
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Form1.resources
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Properties.Resources.resources
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csproj.GenerateResource.Cache
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.exe
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.pdb
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Form2.resources
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\TrainedFaces\TrainedLabels.txt
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe.manifest
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.application
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.CV.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.Util.dll
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.exe.manifest
+C:\Users\ponlo\Documents\Visual Studio 2017\Projects\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.application
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\cvextern.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\haarcascade_frontalface_default.xml
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\OpenCL.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_calib3d2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_contrib2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_core2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_features2d2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_flann2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_gpu2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_highgui2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_imgproc2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_legacy2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_ml2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_nonfree2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_objdetect2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_photo2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_stitching2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_superres2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_video2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\opencv_videostab2410.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\TrainedFaces\TrainedLabels.txt
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe.config
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe.manifest
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.application
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.exe
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\CreateTrainingSet.pdb
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.CV.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\bin\x86\Debug\Emgu.Util.dll
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csprojResolveAssemblyReference.cache
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Form1.resources
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.Properties.Resources.resources
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.csproj.GenerateResource.Cache
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.exe.manifest
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.application
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.exe
+F:\Project\CreateTrainingSet\CreateTrainingSet\obj\x86\Debug\CreateTrainingSet.pdb
