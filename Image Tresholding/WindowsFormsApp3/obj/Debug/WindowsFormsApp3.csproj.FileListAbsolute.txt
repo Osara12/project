@@ -1,0 +1,32 @@
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\concrt140.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\cvextern.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\msvcp140.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\opencv_ffmpeg320_64.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\vcruntime140.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Emgu.CV.World.dll
+c:\users\admin\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\concrt140.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\cvextern.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\msvcp140.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\vcruntime140.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
