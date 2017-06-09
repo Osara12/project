@@ -10,3 +10,14 @@ C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\x64\Debug\WindowsForm
 C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.exe
 C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.pdb
 C:\Users\Admin\Desktop\image treshold\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\cvextern.dll
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe.config
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.exe
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\WindowsFormsApp3.pdb
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.exe
+C:\Users\Admin\Documents\GitHub\project\Image Tresholding\WindowsFormsApp3\obj\x64\Debug\WindowsFormsApp3.pdb

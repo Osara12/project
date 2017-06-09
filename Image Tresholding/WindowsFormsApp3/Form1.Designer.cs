@@ -39,8 +39,12 @@
             this.LoadButton = new System.Windows.Forms.LinkLabel();
             this.RecordButton = new System.Windows.Forms.LinkLabel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.TrackBarName = new System.Windows.Forms.Label();
+            this.trackBarValue = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             this.SuspendLayout();
             // 
             // ExitButton
@@ -143,11 +147,47 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // trackBar1
+            // 
+            this.trackBar1.LargeChange = 10;
+            this.trackBar1.Location = new System.Drawing.Point(678, 581);
+            this.trackBar1.Maximum = 255;
+            this.trackBar1.Name = "trackBar1";
+            this.trackBar1.Size = new System.Drawing.Size(640, 45);
+            this.trackBar1.SmallChange = 10;
+            this.trackBar1.TabIndex = 20;
+            this.trackBar1.TickFrequency = 20;
+            this.trackBar1.Value = 1;
+            this.trackBar1.Scroll += new System.EventHandler(this.trackBar1_Scroll);
+            // 
+            // TrackBarName
+            // 
+            this.TrackBarName.AutoSize = true;
+            this.TrackBarName.BackColor = System.Drawing.Color.Transparent;
+            this.TrackBarName.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.TrackBarName.Location = new System.Drawing.Point(679, 555);
+            this.TrackBarName.Name = "TrackBarName";
+            this.TrackBarName.Size = new System.Drawing.Size(40, 13);
+            this.TrackBarName.TabIndex = 1005;
+            this.TrackBarName.Text = "Value :";
+            // 
+            // trackBarValue
+            // 
+            this.trackBarValue.AutoSize = true;
+            this.trackBarValue.Location = new System.Drawing.Point(741, 555);
+            this.trackBarValue.Name = "trackBarValue";
+            this.trackBarValue.Size = new System.Drawing.Size(13, 13);
+            this.trackBarValue.TabIndex = 1006;
+            this.trackBarValue.Text = "0";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1336, 556);
+            this.ClientSize = new System.Drawing.Size(1336, 621);
+            this.Controls.Add(this.trackBarValue);
+            this.Controls.Add(this.TrackBarName);
+            this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.RecordButton);
             this.Controls.Add(this.LoadButton);
             this.Controls.Add(this.OutputLabel);
@@ -162,6 +202,7 @@
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -178,6 +219,9 @@
         private System.Windows.Forms.LinkLabel LoadButton;
         private System.Windows.Forms.LinkLabel RecordButton;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.TrackBar trackBar1;
+        private System.Windows.Forms.Label TrackBarName;
+        private System.Windows.Forms.Label trackBarValue;
     }
 }
 

@@ -12,6 +12,7 @@ namespace WindowsFormsApp3
         bool RecordingCheck = false;
         VideoCapture camCapture;
         Image<Bgr, Byte> NormalImage;
+        double thresholdValue;
 
         public Form1()
         {
@@ -38,13 +39,24 @@ namespace WindowsFormsApp3
                 {
                     MessageBox.Show("Cannot load this image", "Error!!!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 }
+                imageProcessing();
             }
+        }
+        private void imageProcessing()
+        {
+            try
+            { 
             Bitmap LoadedImage = (Bitmap)pictureBox1.Image;
             NormalImage = new Image<Bgr, Byte>(LoadedImage);
             Image<Gray, Byte> ConvertImage = NormalImage.Convert<Gray, Byte>();
-            Image<Gray, Byte> ProcessedImage = ConvertImage.ThresholdBinary(new Gray(110), new Gray(255));
+            Image<Gray, Byte> ProcessedImage = ConvertImage.ThresholdBinary(new Gray(thresholdValue), new Gray(255));
             pictureBox2.Image = ProcessedImage.ToBitmap();
             pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            }
+            catch (System.NullReferenceException)
+            {
+
+            }
         }
         private void RecordButton_Clicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
@@ -71,7 +83,7 @@ namespace WindowsFormsApp3
             pictureBox1.Image = NormalImage.ToBitmap();
             pictureBox1.Image.RotateFlip(RotateFlipType.RotateNoneFlipX);
             Image<Gray, Byte> ConvertImage = NormalImage.Convert<Gray, Byte>();
-            Image<Gray, Byte> ProcessedImage = ConvertImage.ThresholdBinary(new Gray(80), new Gray(255));
+            Image<Gray, Byte> ProcessedImage = ConvertImage.ThresholdBinary(new Gray(thresholdValue), new Gray(255));
             pictureBox2.Image = ProcessedImage.ToBitmap();
             pictureBox2.Image.RotateFlip(RotateFlipType.RotateNoneFlipX);
         }
@@ -80,5 +92,20 @@ namespace WindowsFormsApp3
             Application.Exit();
         }
 
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            var tbValue = trackBar1.Value;
+            this.trackBarValue.Text = trackBar1.Value.ToString();
+            thresholdValue = System.Convert.ToDouble(tbValue);
+            if(RecordingCheck == false)
+            {
+                imageProcessing();
+            }
+        }
+
+        private void trackBar2_Scroll(object sender, EventArgs e)
+        {
+
+        }
     }
 }
